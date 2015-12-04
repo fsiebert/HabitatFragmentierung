@@ -1,0 +1,5 @@
+<context id="HabitatFragmentierung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+	<projection type="grid" id="Simple Grid"></projection>
+	<projection type="continuous space" id="Continuous Space"></projection>
+
+</context>
